@@ -2,6 +2,15 @@
 
 This repository contains a dataset of pneumonia X-ray images with four categories: Pneumonia Bacterial, Pneumonia Viral, Normal, and Covid-19. The dataset consists of 9208 images, which are split into a training set, a testing set, and a validation set. A convolutional neural network (CNN) model was developed to classify these X-ray images.
 
+## Dataset
+
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia). It consists of X-ray images categorized into four classes:
+
+1. Pneumonia Bacterial
+2. Pneumonia Viral
+3. Normal
+4. Covid-19
+
 ## Dataset Split
 The dataset was divided as follows:
 - Training set: 80% of the total dataset
